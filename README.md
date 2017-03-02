@@ -1,0 +1,2 @@
+Uruchomienie:
+Make
