@@ -1,2 +1,4 @@
+Wykonane w 2013 roku
+
 Uruchomienie:
-Make
+make
